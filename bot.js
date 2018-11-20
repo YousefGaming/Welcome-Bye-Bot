@@ -8,7 +8,7 @@ Save New Duplicate & Edit Just Text Twitter
 6
 7
 8
-9
+client.user.setGame(`ArabKings`,"http://twitch.tv/ArabKings")
 10
 11
 12
