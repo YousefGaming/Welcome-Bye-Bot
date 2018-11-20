@@ -995,4 +995,4 @@ if (!channel) return;
 client.on('guildMemberAdd', member=> {
     member.addRole(member.guild.roles.find("name","Member")); //Member
     });
-client.login('Token');
+client.login('BOT_TOKEN');
